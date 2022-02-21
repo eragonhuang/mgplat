@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T07:21:22.491Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="15.0.2" etag="XX9GZOjSzJfpp-eg-DJB" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T07:22:01.227Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="15.0.2" etag="hD9CHj8JDOoLBARbw9cu" type="github">
   <diagram id="CX8xROLG4qJBpS7ueyeK" name="第 1 页">
     <mxGraphModel dx="2062" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="&lt;a style=&quot;color: rgb(30 , 80 , 162) ; font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;simsun&amp;#34; ; text-align: left&quot;&gt;mgplat web&lt;br&gt;&lt;/a&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EuJE46RZJOW4vk_XAPND-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3" value="&lt;a style=&quot;color: rgb(30 , 80 , 162) ; font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;simsun&amp;#34; ; text-align: left&quot;&gt;vscode mgplat插件&lt;br&gt;&lt;/a&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="220" width="120" height="60" as="geometry" />
